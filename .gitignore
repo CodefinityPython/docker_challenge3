@@ -1,0 +1,63 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# Database files
+*.sqlite3
+
+# Logs
+*.log
+
+# Static files
+staticfiles/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.ico
+*.woff
+*.woff2
+*.ttf
+*.eot
+
+# Media files
+media/
+
+# Virtual environment
+venv/
+*.pyc
+*.pyo
+__pycache__/
+*.db
+*.sqlite3
+
+# Local development settings
+local_settings.py
+
+# Secret key
+secret_key.txt
+
+# IDE-specific files and directories
+../.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Debugging logs
+*.log
+
+# Django migrations
+*.sqlite3
+*.db
+
+# Ignore .env files
+.env
+
+# Ignore macOS metadata files
+.DS_Store
+
+# Ignore temporary or backup files
+*.swp
+*~
